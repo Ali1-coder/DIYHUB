@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Build a Birdhouse",
+      "difficulty": "Easy",
+      "materials": ["wood", "nails", "paint"],
+      "image": "images/birdhouse.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Make a Bookshelf",
+      "difficulty": "Medium",
+      "materials": ["wood", "screws", "drill"],
+      "image": "images/bookshelf.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Design a Garden",
+      "difficulty": "Hard",
+      "materials": ["soil", "plants", "gardening tools"],
+      "image": "images/garden.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Build a Treehouse",
+      "difficulty": "Hard",
+      "materials": ["wood", "hammer", "rope", "nails"],
+      "image": "images/treehouse.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Create a Photo Frame",
+      "difficulty": "Easy",
+      "materials": ["cardboard", "glue", "decorative paper"],
+      "image": "images/frame.jpeg"
+    }
+  ]
+}
